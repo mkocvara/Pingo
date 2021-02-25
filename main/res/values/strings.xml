@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Pingo</string>
+    <string name="welcome_message">PINGO</string>
+    <string name="smaller_board_button">3x3</string>
+    <string name="bigger_board_button">4x4</string>
+    <string name="generate_new_topics_button">Vygeneruj nová témata</string>
+    <string name="new_topics">Nová témata</string>
+    <string name="bingo_popup">BINGO</string>
+    <string name="info_button_content_description">Info</string>
+    <string name="settings_button_content_description">Settings</string>
+    <string name="info_title">Pingo - Pospíšilovo bingo</string>
+    <string name="info_description_text">
+        Hra určená studentům Jarošky, které vyučuje oblíbený profesor Pospíšil.
+        \n\n
+        Pohodlně se posaď v Pospecově hodině, zapni si Pingo, vygeneruj si témata a pozorně poslouchej.
+        Jakmile se Pospec ve svém výkladu dotkne nějakého z vygenerovaných témat, klikni na příslušné tlačítko a označ ho.
+        Výhrou samozřejmě je, když se ti podaří označit celý řádek, sloupec nebo diagonálu.
+        Výherní okno pak zavřeš a můžeš buď pokračovat, nebo si vygenerovat nová témata.
+        Osobně doporučuji bingo 4x4 pouze do dvouhodinovek, a to jen když je Pospec obzvlášť ukecaný.
+        \n\n
+        Je možné si také přidat vlastní témata (tlačítko vedle info tlačítka) nebo stávající témata odebírat. Odebraná témata však nelze vrátit zpět.
+        \n\n
+        Původní nápad na bingo Pospíšilových oblíbených témat vznikl v 1.B školního roku 2018/2019.
+        Následně se nápad dostal ke mě. Hned mě napadlo, že na papíru je to značně nepraktické, a že by bylo zábavné mít témata randomizována.
+        To mě přivedlo na nápad mobilní aplikace - Pospec stejně neřeší mobily v hodinách.
+        Jakožto čtvrťák už bohužel nemám příležitost Pingo hrát, ale myslím, že se najdou jiní studenti z nižších ročníků, kteří si ho rádi zahrají.
+        \n\n
+        Aplikace je projektem jednoho člověka, který nikdy dříve nedělal mobilní aplikace. Podle toho taky appka vypadá - amatérsky. Za to se omlouvám.
+        \n\n
+        Kontakt, pro případ chyb v programu či snad nějakých dotazů: kocvara.mark@gmail.com
+    </string>
+    <string name="welcome_message_part_2">Pospíšilovo bingo</string>
+    <string name="new_topic_text_text">Nové téma</string>
+    <string name="new_topic_button_text">Přidat nové téma</string>
+    <string name="remove_topic_content_description">Remove topic</string>
+</resources>
